@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: "Libi Medical"
 description: "a phonocardiography approach to low-cost fetal monitoring"
 logo: "/assets/libi-logo.png"
-show_downloads: "false"
+show_downloads: false
