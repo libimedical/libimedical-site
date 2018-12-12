@@ -1,4 +1,4 @@
-| [Home](https://libimedical.com) | [Join](https://libimedical.com/join) |   
+| [Home](index.md) | [Join](join.md) | [News](news.md)   
 
 ## Join Us
 

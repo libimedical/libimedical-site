@@ -1,4 +1,4 @@
-| [Home](https://libimedical.com) | [Join](https://libimedical.com/join) |   
+| [Home](index.md) | [Join](join.md) | [News](news.md)   
 
 # fetoMic
 *a phonocardiography approach to low-cost fetal monitoring*
