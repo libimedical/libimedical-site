@@ -3,6 +3,8 @@
 # fetoMic
 *a phonocardiography approach to low-cost fetal monitoring*
 
+By [Yahia Ali](https://www.linkedin.com/in/yahiaali/), [Hannah Geil](https://www.linkedin.com/in/hannahgeil/), [Elizabeth Kappler](https://www.linkedin.com/in/elizabeth-kappler/), and [Elianna Paljug](https://www.linkedin.com/in/elianna-paljug-95b861133/) @ [Georgia Tech BME](https://bme.gatech.edu/)
+
 <img src="/assets/fetomic-perspective.jpg" alt="fetoMic" width="200"/>
 
 Ethiopian hospitals need fetal heart monitoring technology that withstands their unique conditions of use. Access to practical, intuitive, and repairable fetal heart monitors would help ensure that Ethiopian caregivers have the tools they need to achieve the World Health Organization’s standards of intrapartum care.[1]
