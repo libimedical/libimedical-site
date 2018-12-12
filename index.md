@@ -27,7 +27,7 @@ Libi Medical conducted 19 interviews in Ethiopia and 30 interviews in the United
 ## Prototype
 
 #### Rendering
-<img src="/assets/fetomic-front.jpg" alt="fetomic front" width="200"/><img src="/assets/fetomic-inside.jpg" alt="fetomic inside" width="165"/>
+<img src="/assets/fetomic-inside.jpg" alt="fetomic inside" width="165"/>
 
 #### Usage
 <img src="/assets/fetomic-usage.jpg" alt="fetomic usage" width="165"/>
