@@ -16,7 +16,7 @@ Ethiopian hospitals need fetal heart monitoring technology that withstands their
 - Handheld Doppler
 
 ## Problem Space Research
-Libi Medical conducted 19 interviews in Ethiopia and 30 interviews in the United States to get a broad view of the problem from both medical professionals and engineers.
+Libi Medical conducted 19 interviews in Ethiopia and 30 interviews in the United States to get a broad view of the problem from both medical professionals and engineers.   
 <img src="/assets/labor-ward.png" alt="labor ward" width="200"/>
 
 #### Key Findings
