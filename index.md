@@ -1,4 +1,4 @@
-# Libi Medical **fetoMic**
+# fetoMic
 *a phonocardiography approach to low-cost fetal monitoring*
 
 <img src="/assets/fetomic-perspective.jpg" alt="fetoMic" width="200"/>
