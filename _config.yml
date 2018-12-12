@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: "Libi Medical"
 description: "Medical devices for low-resource settings"
-logo: "/assets/libi-logo.png"
+# logo: "/assets/libi-logo.png"
 show_downloads: false
