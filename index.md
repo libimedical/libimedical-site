@@ -3,7 +3,8 @@
 # fetoMic
 *a phonocardiography approach to low-cost fetal monitoring*
 
-By [Yahia Ali](https://www.linkedin.com/in/yahiaali/), [Hannah Geil](https://www.linkedin.com/in/hannahgeil/), [Elizabeth Kappler](https://www.linkedin.com/in/elizabeth-kappler/), and [Elianna Paljug](https://www.linkedin.com/in/elianna-paljug-95b861133/) @ [Georgia Tech BME](https://bme.gatech.edu/)
+By [Yahia Ali](https://www.linkedin.com/in/yahiaali/), [Hannah Geil](https://www.linkedin.com/in/hannahgeil/), [Elizabeth Kappler](https://www.linkedin.com/in/elizabeth-kappler/), and [Elianna Paljug](https://www.linkedin.com/in/elianna-paljug-95b861133/)   
+@ [Georgia Tech BME](https://bme.gatech.edu/)   
 
 <img src="/assets/fetomic-perspective.jpg" alt="fetoMic" width="200"/>
 
