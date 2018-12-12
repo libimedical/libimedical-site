@@ -58,4 +58,12 @@ The team used ballistic gel to model the sound conductance of the uterus and a s
 2. Central Intelligence Agency. (2018). The World Factbook: Ethiopia. Retrieved from  https://www.cia.gov/library/publications/the-world-factbook/geos/et.html
 3. The Observatory of Economic Complexity . (2018). Ethiopia. Retrieved from https://atlas.media.mit.edu/en/profile/country/eth
 
+## Acknowledgements
+- Dr. Mahlet Yigeremu, M.D. (Sponsor at Black Lion Hospital)
+- Dr. James Stubbs, Ph.D. (Advisor at Georgia Tech)
+- Dr. Rudy Gleason, Ph.D. (Advisor at Georgia Tech)
+- Kelsey Kubelick (Regulatory Affairs at Georgia Tech)
+- Dr. Timothy Hsu, Ph.D. (Acoustician at IUPUI)
+- Brice Williams (Teaching Assistant at Georgia Tech)
+
 Copyright © 2018 Libi Medical. All rights reserved.
