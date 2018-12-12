@@ -7,5 +7,5 @@
 
 
 ### November 8, 2018
-[Article: **Georgia Tech Improving the Odds in Ethiopia** (Georgia Tech BME)](https://bme.gatech.edu/bme/georgia-tech-improving-odds-ethiopia)   
+#### [Article: Georgia Tech Improving the Odds in Ethiopia](https://bme.gatech.edu/bme/georgia-tech-improving-odds-ethiopia)   
 <img src="/assets/ethiopia-team-picture.jpg" alt="Ethiopia Team Picture" width="400"/>
