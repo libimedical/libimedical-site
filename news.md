@@ -1,4 +1,4 @@
-| [Home](index.md) | [Join](join.md) | [News](news.md)   
+| [Home](index.md) | [Contact Us](contact.md) | [News](news.md)   
 
 ## News
 ### December 4, 2018
