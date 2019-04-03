@@ -1,4 +1,4 @@
-| [Home](index.md) | [Join](join.md) | [News](news.md)   
+| [Home](index.md) | [Contact Us](contact.md) | [News](news.md)   
 
 # fetoMic
 *a phonocardiography approach to low-cost fetal monitoring*
